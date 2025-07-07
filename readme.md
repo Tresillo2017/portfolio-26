@@ -1,6 +1,6 @@
-# henryheffernan.com
+# tomasps.com
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is one of two repositories created for my portfolio website <a href="https://tomasps.com/"><samp>tomasps.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/tresillo2017/portfolio-26-os"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:contact@tomasps.com">contact@tomasps.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/toomas_ps"><samp>@toomas_ps</samp></a>.
 
 <br>
 
