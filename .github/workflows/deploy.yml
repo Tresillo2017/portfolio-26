@@ -27,6 +27,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/tresillo2017/portfolio-26-os:latest
-            ghcr.io/tresillo2017/portfolio-26-os:${{ github.sha }}
+            ghcr.io/tresillo2017/portfolio-26:latest
+            ghcr.io/tresillo2017/portfolio-26:${{ github.sha }}
           platforms: linux/amd64
