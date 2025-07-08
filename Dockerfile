@@ -6,8 +6,8 @@ WORKDIR /app
 # Copy package files
 COPY package.json package-lock.json* ./
 
-# Install dependencies
-RUN --mount=type=cache,id=npm,target=/root/.npm npm ci --only=production
+# Install dependencies (including dev dependencies needed for build)
+RUN --mount=type=cache,id=npm,target=/root/.npm npm ci
 
 # Copy environment file (if exists)
 COPY .env* ./
