@@ -1,0 +1,10 @@
+{
+    "name": "portfolio-26",
+    "compatibility_date": "2025-04-23",
+    "assets": {
+        "directory": "./public"
+    },
+    "placement": {
+        "mode": "smart"
+    }
+}
